@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmarlon
-- 👀 I’m interested in climate change mitigation and adaptation, wildfires, and data visualization
-- 🌱 I’m currently learning python (I use R)
-- 💞️ I’m looking to collaborate on data visualizations
+- 🌍 I’m interested in climate change, communication, and data visualization
+- I conduct research 📓 and make interactive tools like Climate Opinion Maps 🗺️
+- Check out an example here: https://climatecommunication.yale.edu/visualizations-data/ycom-us/
 - 📫 You can reach me @JMarlonPhD on Twitter
 
 <!---
