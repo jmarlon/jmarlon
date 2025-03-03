@@ -4,7 +4,15 @@
 
 I am a **Senior Research Scientist & Lecturer** at the Yale School of the Environment and the **Executive Director** of the Yale Center for Geospatial Solutions. My work focuses on **climate change, public opinion, and data-driven communication**.
 
-I lead research and the development of **interactive data visualization tools** that help translate climate science into actionable insights. Some of my projects include:
+I lead research and the development of **interactive data visualization tools** that help translate climate science into actionable insights.
+
+### 🔥 What I Work On
+- **Paleofire & Climate History** 🌿🔥  
+  Investigating past wildfires and their relationship to climate change using charcoal records and paleoclimatic data.  
+- **Understanding Risk Perception** 🌎🔍  
+  Studying how people perceive climate risks and how to communicate uncertainty effectively for better decision-making.  
+
+Some of my projects include:
 
 ### 🔹 Interactive Data & Maps
 - **[Yale Climate Opinion Maps (U.S.)](https://climatecommunication.yale.edu/visualizations-data/ycom-us/)**  
