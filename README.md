@@ -1,8 +1,8 @@
 # 👋 Hi, I’m @jmarlon (Jennifer Marlon)
 
-## 🌍 Researcher | Data Scientist | Science Communicator
+## 🌍 Geographer & Climate Scientist
 
-I am a **Senior Research Scientist & Lecturer** at the Yale School of the Environment and the **Executive Director** of the Yale Center for Geospatial Solutions. My work focuses on **climate change, public opinion, and data-driven communication**.
+I am a **Senior Research Scientist & Lecturer** at the Yale School of the Environment and the **Executive Director** of the Yale Center for Geospatial Solutions. My work focuses on **climate change, extreme weather, public opinion, and data-driven communication**.
 
 I lead research and the development of **interactive data visualization tools** that help translate climate science into actionable insights.
 
